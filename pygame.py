@@ -1,5 +1,6 @@
 import pygame
 import time
+pygame.init ()
 width = 1000
 height = 800
 gameDisplay = pygame.display.set_mode ( ( width , height ) )
